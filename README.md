@@ -1,5 +1,5 @@
 # circus
-The Circus Project
+The Circus Project test
 -Simple codebase to demonstrate inheritance, casting and use of Abstract classes and Interfaces.
 ### Credits
 
